@@ -14,7 +14,7 @@ I am also interested in web development and java, though most of the programming
 I am currently learning flutter and web(HTML, CSS, JS) and Datastructure and Algorithm
 
 ## Looking to Collaborate on
-Video player, game development, or any large scale project using flutter
+Video player, game development, or any large scale project using flutter, c++ or java
 
 ## Reach me
 You can contact me through my email-> souvikbanerjee73@gmail.com <br>
