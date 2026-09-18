@@ -1,34 +1,30 @@
-# Hi I am Souvik Banerjee
-I am a flutter developer and a competitive coder currently having 3 star in codechef, I develop apps in flutter for web, android, desktop. <br>
-I have done many projects based on flutter, and I love learning new things daily.
+### 🚀 Hi, I'm Souvik Banerjee
 
-## Education
-I am currently pursuing B.Tech in Computer Science from Techno India University, I am a 3rd year student. <br>
-I have completed my 10th(9.2 CGPA) and 12th(92.4%) from Army Public School Barrackpore(CBSE affiliated)
+### **Full-Stack Mobile Engineer & Decoupled Architecture Specialist**
 
-## Interests and Hobbies
-Apart from being keenly interested in development of applications and competitivecoding, I like playing chess which is my hobby, I also like playing football and basketball <br>
-I am also interested in web development and java, though most of the programming i do in C++ or dart.
+Building native-grade cross-platform applications with **Flutter** paired with enterprise **Headless Backends (Drupal/Node.js)**. Driven by clean code, optimized algorithms, and scalable system design. 
 
-## Currently learning
-I am currently learning flutter and web(HTML, CSS, JS) and Datastructure and Algorithm
+### 🛠️ Tech Stack & Ecosystem
 
-## Looking to Collaborate on
-Video player, game development, or any large scale project using flutter, c++ or java
+* **Languages:** Dart, C++, PHP, JavaScript, HTML5/CSS3
+* **Mobile Development:** Flutter SDK (Android, iOS, Web, Desktop), BLoC, Riverpod, Provider
+* **Backend & CMS:** Headless Drupal (9/10/11), JSON:API, GraphQL, RESTful APIs, Node.js
+* **Databases & Tools:** MySQL, SQLite, Hive, Git, Docker, GitHub Actions, Postman
+* **Problem Solving:** Data Structures & Algorithms (DSA), Object-Oriented Programming (OOP)
 
-## Reach me
-You can contact me through my email-> souvikbanerjee73@gmail.com <br>
-or my linkedIn account-> https://www.linkedin.com/in/souvik-banerjee-1a937a191/
+### 📊 Competitive Programming & Core Metrics
 
-<!--
-- 👋 Hi, I’m @Souvik73
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
---->
+* 🏆 **3-Star Coder** on CodeChef — Passionate about writing highly optimized algorithms and solving complex algorithmic problems.
+* 💻 Core languages for competitive coding: **C++**, **JavaScript** and **Dart**.
+* ♟️ Fun fact: When I'm not debugging or optimizing APIs, you'll find me playing competitive chess, football, or basketball.
 
-<!---
-Souvik73/Souvik73 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 🔬 Active Focus & Collaborative Interests
+
+* 🌱 **Currently engineering:** Enterprise-level decoupled systems using Headless CMS engines to drive dynamic multi-platform frontends.
+* 💞️ **Looking to collaborate on:** Large-scale Flutter plugin architectures, advanced media/video player implementations, or high-performance graphics/game engines.
+
+### 📬 Let's Connect
+
+* 💼 **LinkedIn:** [linkedin.com/in/souvik-banerjee-1a937a191](https://www.linkedin.com/in/souvik-banerjee-1a937a191/)
+* 📧 **Email:** [souvikbanerjee73@gmail.com](mailto:souvikbanerjee73@gmail.com)
+* 🌐 **Location:** India (Open to Hybrid / Remote roles globally)
